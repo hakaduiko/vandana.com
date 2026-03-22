@@ -27,7 +27,7 @@
 <section class="text-center p-10 bg-yellow-400">
   <h1 class="text-4xl font-bold mb-4">Steel Welding & Fabrication Services</h1>
   <p class="text-lg">Door-to-Door Service in Satna, Madhya Pradesh</p>
-  <a href="https://wa.me/919999999999?text=Hello%20I%20need%20welding%20service%20in%20Satna" class="mt-5 inline-block bg-green-500 text-white px-6 py-3 rounded-2xl">Contact on WhatsApp</a>
+  <a href="https://wa.me/6269595226,9630564378?text=Hello%20I%20need%20welding%20service%20in%20Satna" class="mt-5 inline-block bg-green-500 text-white px-6 py-3 rounded-2xl">Contact on WhatsApp</a>
 </section>
 
 <section class="p-10">
@@ -64,7 +64,7 @@
   Owner: Vandana Soni | Satna, Madhya Pradesh | Door-to-Door Service | WhatsApp Available
 </footer>
 
-<a href="https://wa.me/919999999999?text=Hello%20I%20need%20welding%20service%20in%20Satna" class="whatsapp-float">💬</a>
+<a href="https://wa.me/9630564378,6269595226?text=Hello%20I%20need%20welding%20service%20in%20Satna" class="whatsapp-float">💬</a>
 
 <script>
 function reply() {
